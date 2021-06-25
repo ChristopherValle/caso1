@@ -4,6 +4,7 @@ import model.Values;
 
 import java.util.Observable;
 
+//esta es la clase que permite crear hibridos agregandole observadores
 public class WeatherDataUpdater extends Observable {
 
 

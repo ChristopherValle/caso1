@@ -3,7 +3,8 @@ import model.display.WeatherDataUpdater;
 
 import java.util.*;
 
-
+//este es el wheather data patente pendiente, que se encarga de brindar la informacion a los dispositivos
+// solo debe haber uno de estos
 public class WeatherData  extends Observable{
 
     public List<WeatherDataUpdater> devices;
