@@ -7,7 +7,7 @@ import java.util.*;
 // solo debe haber uno de estos
 public class WeatherData  extends Observable{
 
-    public List<WeatherDataUpdater> devices;
+    public List<WeatherDataUpdater> devices = new ArrayList<>();
 
     public void addUpdater(WeatherDataUpdater w){
         devices.add(w);
