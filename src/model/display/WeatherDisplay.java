@@ -1,5 +1,4 @@
 package model.display;
-import model.Values;
 import java.util.Observable;
 import java.util.Observer;
 

@@ -1,7 +1,5 @@
 package model.display;
 
-import model.Values;
-
 import java.util.Observable;
 
 //esta es la clase que permite crear hibridos agregandole observadores

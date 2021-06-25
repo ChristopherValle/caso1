@@ -1,4 +1,4 @@
-package model;
+package model.display;
 
 public class Values {
     double temp =0, humid =0, pressure =0;
